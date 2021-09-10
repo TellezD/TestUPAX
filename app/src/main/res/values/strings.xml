@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestUPAX</string>
+    <string name="masp_button">Maps Pointers</string>
+    <string name="dynamic_button">Dynamic Button</string>
+    <string name="employees_button">Employees</string>
+    <string name="add_pointer">Add Pointer</string>
+    <string name="hint_lat">Lat: 19.4299037</string>
+    <string name="hint_lng">Lng: -99.1526148</string>
+    <string name="click_me">Click me</string>
+    <string name="timer_over">Time Over</string>
+    <string name="waiting">Wait...</string>
+</resources>
